@@ -1,2 +1,2 @@
-# Patrick-s-data-science-learning-resource
+# Patrick's Data Science learning repository
 The Data Science Learning Resource of 🌰 （Coursera, edX, etc...） 
