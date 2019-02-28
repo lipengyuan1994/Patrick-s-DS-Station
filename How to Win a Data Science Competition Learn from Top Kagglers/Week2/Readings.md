@@ -1,3 +1,20 @@
+# Visualization tools
+-------------------
+
+* [Seaborn](https://seaborn.pydata.org/)
+* [Plotly](https://plot.ly/python/)
+* [Bokeh](https://github.com/bokeh/bokeh)
+* [ggplot](http://ggplot.yhathq.com/)
+* [Graph visualization with NetworkX](https://networkx.github.io/)
+
+Others
+------
+
+* [Biclustering algorithms for sorting corrplots](http://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html)
+
+# Visualization Strategies
+-------------------
+
 This page contains information about main validation strategies (schemes): **holdout**, **K-Fold**, **LOO**.
 
 The main rule you should know — *never use data you train on to measure the quality of your model*. The trick is to split all your data into *training* and *validation* parts. 
@@ -22,3 +39,18 @@ Below you will find several ways to validate a model.
 2. In the end you will get LOO predictions for every sample in the trainset and can calculate loss.
 
 Notice, that these are *validation* schemes are supposed to be used to estimate quality of the model. When you found the right hyper-parameters and want to get test predictions don't forget to retrain your model using all training data.
+
+# Validation
+-------
+
+* [Validation in Sklearn](http://scikit-learn.org/stable/modules/cross_validation.html)
+* [Advices on validation in a competition](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/)
+
+
+# Data Leakages
+-------
+
+
+* [Perfect score script by Oleg Trott ](https://www.kaggle.com/olegtrott/the-perfect-score-script)-- used to probe leaderboard
+
+* https://www.quora.com/Whats-data-leakage-in-data-science

@@ -11,3 +11,5 @@ To keep up the work you've started on the final project in the previous week, we
 # Leaning summary by Patrick 🌰
 ## Notice:
 1. Decode a scaled feature is what I have never learned before, the technique is in EDA_video3.ipynb. 
+2. The programming assignment needs more attention.
+
