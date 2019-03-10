@@ -1,0 +1,79 @@
+In this video, radder shared his experience in becoming a grandmaster in kaggle after 4 competitions. ALso shared some feature engineering techniques, talked about data leakages.
+
+<https://www.youtube.com/watch?v=7XEMPU17-Wo>
+
+![](resources/606BBCC0FBBC52FA5F49B6810067883E.jpg)
+
+2 months to Kaggle GrandMaster
+==============================
+
+![](resources/6A228B752B533418601A2CBDBC261587.jpg)
+
+BackGround
+----------
+
+![](resources/DFE8EE44B3F6D495220742108903FCBD.jpg)
+
+The first dataset
+-----------------
+
+![](resources/03B303000F2350DC8C7E93AA41D63ED7.jpg)
+
+![](resources/16FAF027446A1011C13D92F265CA8C0E.jpg)
+
+### Team up with top 10
+
+People who inspire and instructed him.
+
+There are a lot videos on YouTube of these two guys.
+
+![](resources/E8076DF0339E79D87D734CCC939D47C5.jpg)
+
+![](resources/E6C7CABBC17E2F1CBE09DF575A6870A1.jpg)
+
+
+
+Find a way much simpler
+
+![](resources/5CC6DEF294BFE9D9D2F62AE419C77E11.jpg)
+
+![](resources/FC3C28229CDB8E0E772A5A30840766F2.jpg)
+
+![](resources/1C2B0DCF471ECC47FA3D653F280DD2DF.jpg)
+
+Find problems : no integers.
+
+Unscaling unmeaning, find timestamp, 
+
+Sort by categotical features and find relationships; 
+
+Find lead feature and remove nosisy features;
+
+![](resources/63C0A178569222E47C3F48417DFADDE9.jpg)
+
+Brute force ? ???
+
+![](resources/595832F96DCAA6FCD9C0ED2523D4AFF5.jpg)
+
+
+
+
+
+Third competition
+-----------------
+
+![](resources/A5D95EDEEB5A86001FADB2737C4D5984.jpg)
+
+![](resources/62153ACB1B06B8D0B93FDF9D01ACEC30.jpg)
+
+Apply it while meeting samll dataset.
+
+
+
+
+
+![](resources/1FA71B7773F9EAC424F82159AD9FAB8F.jpg)
+
+![](resources/58E12432FF7A820B9B0077E874574F14.jpg)
+
+![](resources/1E9ABB09DCB076D53B078D10810ED5A7.jpg)
