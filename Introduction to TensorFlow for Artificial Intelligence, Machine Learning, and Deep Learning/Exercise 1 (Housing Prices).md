@@ -1,0 +1,7 @@
+# Exercise 1 (Housing Prices) | Coursera
+
+[Source](https://www.coursera.org/learn/introduction-tensorflow/notebook/YoQKl/exercise-1-housing-prices "Permalink to Exercise 1 (Housing Prices) | Coursera")
+
+Great! You’ve come a long way already! Now it’s time to do an exercise in programming. Earlier this week you saw a ‘Hello World’ in Machine Learning that predicted a relationship between X and Y values. These were purely arbitrary, but it did give you the template for how you can solve more difficult problems. So, for this exercise you will write code that does a similar task -- in this case predicting house prices based on a simple, linear equation.
+
+**NOTE: Please do not modify any of the code already provided in the Exercise question, and please only add your additional code in the indicated areas marked by the comments. Once you have completed your notebook assignment and received a final score, please save your notebook, run the final cell, and close your Jupyter Workspace. This will help optimize your Jupyter workspace performance for future assessments. Please note that this step will shut down your kernel, so it is important to save your work in advance of completing this step**
