@@ -1,0 +1,9 @@
+Week2 Codelab
+
+1, F test / Wilxocon Test / Chi-Square Test / Summary of Tests
+2, A/B Tests Part 1
+3, Q & A
+
+FAQ in Regression
+https://docs.google.com/document/d/1_Nlq2Hlj1Tc4YtTbKbImOjk334sDcV9xLGerXyfkwO8/edit?usp=sharing
+
