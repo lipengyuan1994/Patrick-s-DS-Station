@@ -5,16 +5,16 @@ The Data Science Learning Resource of 🌰 （Coursera, edX, etc...）
 ---- 
 ## This is a treasure repo!!! Enjoy it.
 ---- 
-
 # Categorized by domain 
-
 ---- 
 # Course List 
 ---- 
 **Deep Learning Specialization by Andrew Ng**
 * [My own version, need finalize.][1]
+
 **BitTiger Data Scientist BootCamp**
 * [All courses, materials.][2]
+
 **Tensorflow in Practice Specialization**
 *  [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning][3]
 *  [Convolutional Neural Network][4]
@@ -33,7 +33,7 @@ The Data Science Learning Resource of 🌰 （Coursera, edX, etc...）
 * [Machine Learning Crash Couse][10]
 
 [1]:	/Deep-Learning-Specialization/
-[2]:	https://github.com/lipengyuan1994/Patrick-s-DS-Station/tree/master/BitTiger-DS501
+[2]:	/Data-Science-Learning-Repository/BitTiger-DS501/
 [3]:	https://github.com/lipengyuan1994/Patrick-s-DS-Station/tree/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning
 [4]:	https://github.com/lipengyuan1994/Patrick-s-DS-Station/tree/master/Convolutional%20Neural%20Networks
 [5]:	https://github.com/lipengyuan1994/Patrick-s-DS-Station/tree/master/Natural%20Language%20Processing%20in%20Tensorflow
