@@ -1,0 +1,208 @@
+0
+00:00:00,150 --> 00:00:04,665
+>> Hi and welcome to section two on text processing.
+
+1
+00:00:04,665 --> 00:00:06,540
+This is where we look at some of
+
+2
+00:00:06,540 --> 00:00:10,905
+the tasks and techniques involved in acquiring data,
+
+3
+00:00:10,905 --> 00:00:13,620
+cleaning it and normalizing it.
+
+4
+00:00:13,620 --> 00:00:15,145
+So, the first section here,
+
+5
+00:00:15,145 --> 00:00:17,955
+the task is data acquisition.
+
+6
+00:00:17,955 --> 00:00:22,080
+And some of the issues involved in data acquisition are,
+
+7
+00:00:22,080 --> 00:00:25,450
+where do I get the data that I need?
+
+8
+00:00:25,450 --> 00:00:27,030
+And, is it already in
+
+9
+00:00:27,030 --> 00:00:29,685
+digital form or does it need to be OCRed?
+
+10
+00:00:29,685 --> 00:00:33,377
+How much will it cost or is it free?
+
+11
+00:00:33,377 --> 00:00:36,120
+Is this the only delivery of
+
+12
+00:00:36,120 --> 00:00:39,390
+the data I need or will I need updates over time?
+
+13
+00:00:39,390 --> 00:00:40,890
+And, if it's customer data,
+
+14
+00:00:40,890 --> 00:00:43,830
+do I have the legal and privacy rights
+
+15
+00:00:43,830 --> 00:00:47,535
+needed to use the data in the way I intend to use it?
+
+16
+00:00:47,535 --> 00:00:51,435
+And, if the data needs to be safeguard,
+
+17
+00:00:51,435 --> 00:00:53,700
+do I have the systems
+
+18
+00:00:53,700 --> 00:00:56,725
+in place to securely store the data?
+
+19
+00:00:56,725 --> 00:01:00,795
+So, one alternative that's
+
+20
+00:01:00,795 --> 00:01:03,210
+used for some applications is to
+
+21
+00:01:03,210 --> 00:01:06,840
+use existing collections of
+
+22
+00:01:06,840 --> 00:01:10,245
+data from various repositories on the web.
+
+23
+00:01:10,245 --> 00:01:17,705
+In nltk, we have access to lots of different resources.
+
+24
+00:01:17,705 --> 00:01:21,325
+What I'm going to look at here are the Gutenberg books.
+
+25
+00:01:21,325 --> 00:01:24,550
+So, here we have import nltk and
+
+26
+00:01:24,550 --> 00:01:25,870
+then I'm going to print out
+
+27
+00:01:25,870 --> 00:01:28,815
+the corpus Gutenberg file ids.
+
+28
+00:01:28,815 --> 00:01:30,430
+This will just show me the names of
+
+29
+00:01:30,430 --> 00:01:32,690
+the books that are available.
+
+30
+00:01:32,690 --> 00:01:35,560
+I'll execute the cell and I
+
+31
+00:01:35,560 --> 00:01:38,955
+get back austen- emma, austen-persuasion.
+
+32
+00:01:38,955 --> 00:01:40,810
+You can see, I think there's something
+
+33
+00:01:40,810 --> 00:01:44,610
+like a 15 or something.
+
+34
+00:01:44,610 --> 00:01:45,860
+So let's look at one of the books.
+
+35
+00:01:45,860 --> 00:01:47,775
+Let's look at Alice in Wonderland.
+
+36
+00:01:47,775 --> 00:01:51,440
+So, to do that I just say gutenberg.words and
+
+37
+00:01:51,440 --> 00:01:56,515
+then the name of the book and store that in Alice,
+
+38
+00:01:56,515 --> 00:02:00,410
+and then I can see how large it is by length of Alice and
+
+39
+00:02:00,410 --> 00:02:05,900
+I'll print out the first 100 entries.
+
+40
+00:02:05,900 --> 00:02:07,660
+So there we see it's 34,000
+
+41
+00:02:07,660 --> 00:02:10,200
+words long and you
+
+42
+00:02:10,200 --> 00:02:12,935
+can see some of the beginning words here,
+
+43
+00:02:12,935 --> 00:02:17,390
+Rabbit, Hole, Alice was beginning to get very tired.
+
+44
+00:02:17,390 --> 00:02:19,080
+So that looks like that worked.
+
+45
+00:02:19,080 --> 00:02:20,960
+Let's try another one.
+
+46
+00:02:20,960 --> 00:02:27,365
+This one is from the webtext.words and it's grail.text.
+
+47
+00:02:27,365 --> 00:02:33,745
+So, this a Monty Python and the Holy Grail script.
+
+48
+00:02:33,745 --> 00:02:36,385
+And so, we can see here-,
+
+49
+00:02:36,385 --> 00:02:38,570
+the other one Arthur I
+
+50
+00:02:38,570 --> 00:02:41,735
+am this is my trusty servant Patsy.
+
+51
+00:02:41,735 --> 00:02:44,000
+Okay, so it looks like that worked.
+
