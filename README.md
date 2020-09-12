@@ -81,7 +81,7 @@ The Data Science Learning Resource of 🌰 （Coursera, edX, etc...）
 [15]:	https://github.com/lipengyuan1994/Patrick-s-DS-Station/tree/master/Intro%20to%20Data%20Science%20in%20Python
 [16]:	/Applied-Text-Mining-in-Python-by-University-of-Michigan/
 [17]:	/Python-Statistics-Essential-Training/
-[18]:	/E-books/From-zero-to-Kaggle-master-一本很旧的书/
+[18]:	https://github.com/lipengyuan1994/Patrick-s-DS-Station/tree/master/E-books/From%20zero%20to%20Kaggle%20master%20%E4%B8%80%E6%9C%AC%E5%BE%88%E6%97%A7%E7%9A%84%E4%B9%A6
 [19]:	https://ai.google/education/
 [20]:	https://developers.google.com/machine-learning/crash-course?hl=en
 [21]:	https://github.com/jakevdp/PythonDataScienceHandbook
