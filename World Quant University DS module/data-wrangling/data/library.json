@@ -1,0 +1,54 @@
+[
+  {
+    "title": "The Prophet",
+    "author": "Khalil Gibran",
+    "genre": "poetry",
+    "tags": [
+      "religion",
+      "spirituality",
+      "philosophy",
+      "Lebanon",
+      "Arabic",
+      "Middle East"
+    ],
+    "book_id": "811.19",
+    "copies": [
+      {
+        "edition_year": 1996,
+        "checkouts": 486,
+        "borrowed": false
+      },
+      {
+        "edition_year": 1996,
+        "checkouts": 443,
+        "borrowed": false
+      }
+    ]
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "genre": "children",
+    "tags": [
+      "fantasy",
+      "France",
+      "philosophy",
+      "illustrated",
+      "fable"
+    ],
+    "id": "843.912",
+    "copies": [
+      {
+        "edition_year": 1983,
+        "checkouts": 634,
+        "borrowed": true,
+        "due_date": "2017/02/02"
+      },
+      {
+        "edition_year": 2015,
+        "checkouts": 41,
+        "borrowed": false
+      }
+    ]
+  }
+]
